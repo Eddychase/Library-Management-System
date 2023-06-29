@@ -33,8 +33,8 @@ This project is an admin panel for a library management system. It provides a us
 - Database: Integration with a database system (SQL) to store and retrieve library data.
 
 <div style="display: flex; justify-content: space-between; margin-top: 10px">
-    <img src="api/book_project/static/calendar.png" alt="Image 1">
-    <img src="api/book_project/static/linegraph.png" alt="Image 1">
+    <img src="api/book_project/static/calendar.png" alt="Image 1" width="300">
+    <img src="api/book_project/static/linegraph.png" alt="Image 1" width="300">
 </div>
 
 ## Installation and Setup
