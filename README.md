@@ -32,7 +32,9 @@ This project is an admin panel for a library management system. It provides a us
 - Calendar integration using FullCalendar for managing events and due dates
 - Database: Integration with a database system (SQL) to store and retrieve library data.
 
-![Dashboard](api/book_project/static/calendar.png)
+<div style="display: flex; justify-content: space-between; margin-top: 10px">
+    <img src="api/book_project/static/calendar.png" alt="Image 1">
+</div>
 
 ## Installation and Setup
 
