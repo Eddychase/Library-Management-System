@@ -17,7 +17,7 @@ This project is an admin panel for a library management system. It provides a us
     <img src="api/book_project/static/memberlist.png" alt="Image 2" width="300">
     <img src="api/book_project/static/transactionlist.png" alt="Image 2" width="300">
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin-top: 10px">
     <img src="api/book_project/static/transactionform.png" alt="Image 1" width="300">
     <img src="api/book_project/static/bookform.png" alt="Image 2" width="300">
     <img src="api/book_project/static/memberform.png" alt="Image 2" width="300">
@@ -28,9 +28,11 @@ This project is an admin panel for a library management system. It provides a us
 - ReactJS: A JavaScript library for building user interfaces.
 - Flask: A Python web framework for building the backend server.
 - Material-UI: A popular React UI framework for creating visually appealing and responsive designs.
-- Charts: Integration of charting libraries like Chart.js or Recharts for data visualization.
+- Interactive charts powered by Nivo for data visualization
+- Calendar integration using FullCalendar for managing events and due dates
 - Database: Integration with a database system (SQL) to store and retrieve library data.
 
+![Dashboard](api/book_project/static/calendar.png)
 
 ## Installation and Setup
 
