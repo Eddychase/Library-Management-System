@@ -13,14 +13,14 @@ This project is an admin panel for a library management system. It provides a us
 - Integration with Material-UI for enhanced UI components and styling.
 - Responsive design for optimal user experience on different devices.
 <div style="display: flex; justify-content: space-between;">
-    <img src="api/book_project/static/bookslist.png" alt="Image 1" width="300">
-    <img src="api/book_project/static/memberlist.png" alt="Image 2" width="300">
-    <img src="api/book_project/static/transactionlist.png" alt="Image 2" width="300">
+    <img src="api/book_project/static/bookslist.png" alt="Image 1" width="400">
+    <img src="api/book_project/static/memberlist.png" alt="Image 2" width="400">
+    <img src="api/book_project/static/transactionlist.png" alt="Image 2" width="400">
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 10px">
-    <img src="api/book_project/static/transactionform.png" alt="Image 1" width="300">
-    <img src="api/book_project/static/bookform.png" alt="Image 2" width="300">
-    <img src="api/book_project/static/memberform.png" alt="Image 2" width="300">
+    <img src="api/book_project/static/transactionform.png" alt="Image 1" width="400">
+    <img src="api/book_project/static/bookform.png" alt="Image 2" width="400">
+    <img src="api/book_project/static/memberform.png" alt="Image 2" width="400">
 </div>
 
 ## Technologies Used
@@ -33,8 +33,8 @@ This project is an admin panel for a library management system. It provides a us
 - Database: Integration with a database system (SQL) to store and retrieve library data.
 
 <div style="display: flex; justify-content: space-between; margin-top: 10px">
-    <img src="api/book_project/static/calendar.png" alt="Image 1" width="300">
-    <img src="api/book_project/static/linegraph.png" alt="Image 1" width="300">
+    <img src="api/book_project/static/calendar.png" alt="Image 1" width="450">
+    <img src="api/book_project/static/linegraph.png" alt="Image 1" width="450">
 </div>
 
 ## Installation and Setup
