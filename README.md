@@ -2,7 +2,7 @@
 
 This project is an admin panel for a library management system. It provides a user-friendly interface to perform CRUD (Create, Read, Update, Delete) operations on books, members, and transactions. The website is built using ReactJS for the frontend and Flask for the backend.
 
-![Dashboard](api/static/Homepage.png)
+![Dashboard](api/book_project/static/Homepage.png)
 
 ## Features
 
