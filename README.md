@@ -34,6 +34,7 @@ This project is an admin panel for a library management system. It provides a us
 
 <div style="display: flex; justify-content: space-between; margin-top: 10px">
     <img src="api/book_project/static/calendar.png" alt="Image 1">
+    <img src="api/book_project/static/linegraph.png" alt="Image 1">
 </div>
 
 ## Installation and Setup
