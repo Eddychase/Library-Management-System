@@ -13,9 +13,9 @@ This project is an admin panel for a library management system. It provides a us
 - Integration with Material-UI for enhanced UI components and styling.
 - Responsive design for optimal user experience on different devices.
 <div style="display: flex; justify-content: space-between;">
-    <img src="api/static/bookslist.png" alt="Image 1" width="300">
-    <img src="api/static/memberlist.png" alt="Image 2" width="300">
-    <img src="api/static/transactionlist.png" alt="Image 2" width="300">
+    <img src="api/book_project/static/bookslist.png" alt="Image 1" width="300">
+    <img src="api/book_project/static/memberlist.png" alt="Image 2" width="300">
+    <img src="api/book_project/static/transactionlist.png" alt="Image 2" width="300">
 </div>
 
 ## Technologies Used
@@ -26,9 +26,9 @@ This project is an admin panel for a library management system. It provides a us
 - Charts: Integration of charting libraries like Chart.js or Recharts for data visualization.
 - Database: Integration with a database system (SQL) to store and retrieve library data.
 <div style="display: flex; justify-content: space-between;">
-    <img src="api/static/transactionform.png" alt="Image 1" width="300">
-    <img src="api/static/bookform.png" alt="Image 2" width="300">
-    <img src="api/static/memberform.png" alt="Image 2" width="300">
+    <img src="api/book_project/static/transactionform.png" alt="Image 1" width="300">
+    <img src="api/book_project/static/bookform.png" alt="Image 2" width="300">
+    <img src="api/book_project/static/memberform.png" alt="Image 2" width="300">
 </div>
 
 ## Installation and Setup
