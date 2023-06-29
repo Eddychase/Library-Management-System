@@ -17,6 +17,11 @@ This project is an admin panel for a library management system. It provides a us
     <img src="api/book_project/static/memberlist.png" alt="Image 2" width="300">
     <img src="api/book_project/static/transactionlist.png" alt="Image 2" width="300">
 </div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="api/book_project/static/transactionform.png" alt="Image 1" width="300">
+    <img src="api/book_project/static/bookform.png" alt="Image 2" width="300">
+    <img src="api/book_project/static/memberform.png" alt="Image 2" width="300">
+</div>
 
 ## Technologies Used
 
@@ -25,11 +30,7 @@ This project is an admin panel for a library management system. It provides a us
 - Material-UI: A popular React UI framework for creating visually appealing and responsive designs.
 - Charts: Integration of charting libraries like Chart.js or Recharts for data visualization.
 - Database: Integration with a database system (SQL) to store and retrieve library data.
-<div style="display: flex; justify-content: space-between;">
-    <img src="api/book_project/static/transactionform.png" alt="Image 1" width="300">
-    <img src="api/book_project/static/bookform.png" alt="Image 2" width="300">
-    <img src="api/book_project/static/memberform.png" alt="Image 2" width="300">
-</div>
+
 
 ## Installation and Setup
 
